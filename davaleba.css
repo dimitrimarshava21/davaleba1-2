@@ -1,0 +1,186 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner {
+    padding: 24px 55px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.conteiner__interesting {
+    color: #000;
+    font-family: Lato;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.contact__image {
+    margin-top: 37px;
+}
+
+.Stary__contact {
+    max-width: 570px;
+    text-align: center;
+}
+
+.Stary__night {
+    text-align: center;
+    color: #000;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.breathtaking__conteiner {
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    display: block;
+    margin-top: 16px;
+}
+
+.contact__combined {
+    margin-top: 16px;
+    max-width: 540px;
+}
+
+.beauty__contact {
+    color: #155EEF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.button__conteiner {
+    padding: 12px 32px;
+    color: #CEA201;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    border: 2px solid #CEA201;
+    background-color: #fff;
+}
+
+.button {
+    margin-top: 32px;
+}
+
+.Magic__conteiner {
+    max-width: 780px;
+    margin-top: 150px;
+}
+
+.Creatures__contact {
+    color: #000;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.version__conteiner {
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 16px;
+}
+
+.works__conteiner {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.Heres__works__conteiner {
+    color: #00C76E;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.luciferase__contact {
+    text-align: start;
+    max-width: 420px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+.appears__contact {
+    color: #FF5DA3;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.contact__appears {
+    color: #414651;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 24px;
+}
+
+.contact__process {
+    padding: 16px;
+    border: 6px solid #C11574;
+    background: #FFDEF0;
+}
+
+.attract__contact {
+    margin-top: 16px;
+}
+
+.Fireflies__conteienr {
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 12px;
+}
+
+.more__contact {
+    text-align: end;
+}
+
+.more__link__contact {
+    color: #00D4BC;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    text-decoration-line: underline;
+}
